@@ -1,0 +1,11 @@
+<!DOCTYPE html> 
+
+<html> 
+<head>
+ <script type="text/javascript" src="mynumber.js"></script>
+ </head> 
+ <body onload="mynumber()">
+ 
+</body> 
+
+</html>
